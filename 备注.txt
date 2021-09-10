@@ -13,3 +13,6 @@ vue_shop文件夹是前端部分，vue_api_server是后端部分，不过我试�
 我现在也没有时间来研究了，就先放着了。【后端部分应该是接口地址如果以后失效了，有了后端就可以在本地跑起来的作用吧。】
 
 B站视频链接：https://www.bilibili.com/video/BV1EE411B7SU
+
+我准备把后端部分也利用起来，看了一篇文章【Vue+NodeJS前后端分离项目Docker部署——https://www.cuiliangblog.cn/detail/article/10】
+准备根据这个文章把这个项目部署起来，为了防止出现其他问题，我先用的这个作者的项目进行部署，项目我克隆在【其他资料里面了】
